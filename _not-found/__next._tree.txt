@@ -1,2 +1,2 @@
-:HL["/common-wears.github.io/_next/static/css/1dbf5b04dacc1ebb.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"r1MSDey6OFb3EqE6H1I1D"}
+:HL["/research_page/_next/static/css/cbe8b03689db139c.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MzvRIH-HB6jQr0EECAyY-"}
